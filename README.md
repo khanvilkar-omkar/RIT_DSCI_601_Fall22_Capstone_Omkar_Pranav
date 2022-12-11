@@ -15,15 +15,15 @@ Step 1 :
 
 
 	Instructions to run program file :	
-		1.  To run ‘RankingDevelopersForRefactoring.ipynb’ program kindly use the Jupyter notebook. All the 	cells are aligned on order so you will just need to run all the cells at one time.
-		2. This programs might take more than a 6 hrs to run completely. We have trained the same using the 	RIT servers.
+		1.  To run ‘RankingDevelopersForRefactoring.ipynb’ program kindly use the Jupyter notebook. All the cells are aligned on order so you will just need to run all the cells at one time.
+		2. This programs might take more than a 6 hrs to run completely. We have trained the same using the RIT servers.
 
 	By developing this code we understood how ranking problem works.
 
 Step 2 :
 		In our study we found that there are multiple techniques to get the ranking solution using 	different techniques. Where hyper graph technique was the prefect fit for our problem. 
 	
-		Normal graph can not show the relationship between more than two nodes at same time. 	Which is possible in terms of hyper graph database. Using hyper graph we can show the relationship 	between multiple reviewers with respect to same PR. This is the reason why we choose to go with 	hypergraph algorithm. 
+		Normal graph can not show the relationship between more than two nodes at same time. Which is possible in terms of hyper graph database. Using hyper graph we can show the relationship between multiple reviewers with respect to same PR. This is the reason why we choose to go with 	hypergraph algorithm. 
 
 	Inputs for Hypergraph : PR request ID, PR comments, Reviewers
 	
