@@ -1,0 +1,2 @@
+# RIT_DSCI_601_Fall22_Capstone_Omkar_Pranav
+Data Science Capstone Project
